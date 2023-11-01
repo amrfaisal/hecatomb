@@ -10,6 +10,7 @@ A [hecatomb](https://en.wiktionary.org/wiki/hecatomb) is a great sacrifice; a gr
 
 # What is `hecatomb`?
 
+
 Hecatomb is a pipline for culling spurious sequences from viral metagenomes. 
 
 # Is `hecatomb` for me?
